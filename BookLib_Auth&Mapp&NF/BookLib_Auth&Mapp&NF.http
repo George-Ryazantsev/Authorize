@@ -1,0 +1,6 @@
+@BookLib_Auth_Mapp_NF_HostAddress = http://localhost:5166
+
+GET {{BookLib_Auth_Mapp_NF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

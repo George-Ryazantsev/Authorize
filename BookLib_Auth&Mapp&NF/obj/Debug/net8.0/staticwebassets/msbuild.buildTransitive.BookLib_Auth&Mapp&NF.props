@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookLib_Auth&amp;Mapp&amp;NF.props" />
+</Project>

@@ -1,0 +1,100 @@
+"War and Peace" - Leo Tolstoy
+"1984" - George Orwell
+"Moby Dick" - Herman Melville
+"The Great Gatsby" - F. Scott Fitzgerald
+"To Kill a Mockingbird" - Harper Lee
+"Pride and Prejudice" - Jane Austen
+"The Catcher in the Rye" - J.D. Salinger
+"Crime and Punishment" - Fyodor Dostoevsky
+"Brave New World" - Aldous Huxley
+"Jane Eyre" - Charlotte Brontë
+"Wuthering Heights" - Emily Brontë
+"The Odyssey" - Homer
+"Great Expectations" - Charles Dickens
+"The Iliad" - Homer
+"Anna Karenina" - Leo Tolstoy
+"The Picture of Dorian Gray" - Oscar Wilde
+"Les Misérables" - Victor Hugo
+"Don Quixote" - Miguel de Cervantes
+"Madame Bovary" - Gustave Flaubert
+"Frankenstein" - Mary Shelley
+"Dracula" - Bram Stoker
+"The Divine Comedy" - Dante Alighieri
+"The Brothers Karamazov" - Fyodor Dostoevsky
+"Middlemarch" - George Eliot
+"Ulysses" - James Joyce
+"A Tale of Two Cities" - Charles Dickens
+"The Hobbit" - J.R.R. Tolkien
+"The Lord of the Rings" - J.R.R. Tolkien
+"The Sound and the Fury" - William Faulkner
+"Catch-22" - Joseph Heller
+"One Hundred Years of Solitude" - Gabriel García Márquez
+"The Count of Monte Cristo" - Alexandre Dumas
+"The Old Man and the Sea" - Ernest Hemingway
+"Slaughterhouse-Five" - Kurt Vonnegut
+"Lolita" - Vladimir Nabokov
+"A Clockwork Orange" - Anthony Burgess
+"Heart of Darkness" - Joseph Conrad
+"The Stranger" - Albert Camus
+"The Road" - Cormac McCarthy
+"Fahrenheit 451" - Ray Bradbury
+"The Shining" - Stephen King
+"The Grapes of Wrath" - John Steinbeck
+"Of Mice and Men" - John Steinbeck
+"The Metamorphosis" - Franz Kafka
+"In Search of Lost Time" - Marcel Proust
+"The Trial" - Franz Kafka
+"The Master and Margarita" - Mikhail Bulgakov
+"Beloved" - Toni Morrison
+"Invisible Man" - Ralph Ellison
+"Rebecca" - Daphne du Maurier
+"The Scarlet Letter" - Nathaniel Hawthorne
+"Sense and Sensibility" - Jane Austen
+"David Copperfield" - Charles Dickens
+"The Idiot" - Fyodor Dostoevsky
+"The Godfather" - Mario Puzo
+"Gone with the Wind" - Margaret Mitchell
+"The Secret Garden" - Frances Hodgson Burnett
+"Emma" - Jane Austen
+"The Sun Also Rises" - Ernest Hemingway
+"The Bell Jar" - Sylvia Plath
+"The Call of the Wild" - Jack London
+"The Little Prince" - Antoine de Saint-Exupéry
+"The Hitchhiker's Guide to the Galaxy" - Douglas Adams
+"The Adventures of Sherlock Holmes" - Arthur Conan Doyle
+"Mansfield Park" - Jane Austen
+"Treasure Island" - Robert Louis Stevenson
+"The War of the Worlds" - H.G. Wells
+"The Time Machine" - H.G. Wells
+"The Jungle Book" - Rudyard Kipling
+"The Catcher in the Rye" - J.D. Salinger
+"Lord of the Flies" - William Golding
+"The Wind in the Willows" - Kenneth Grahame
+"Alice's Adventures in Wonderland" - Lewis Carroll
+"Through the Looking-Glass" - Lewis Carroll
+"The Hound of the Baskervilles" - Arthur Conan Doyle
+"Dr. Jekyll and Mr. Hyde" - Robert Louis Stevenson
+"The Thirty-Nine Steps" - John Buchan
+"The Three Musketeers" - Alexandre Dumas
+"Little Women" - Louisa May Alcott
+"War and Peace" - Leo Tolstoy
+"The Prince" - Niccolò Machiavelli
+"Moby Dick" - Herman Melville
+"Pride and Prejudice" - Jane Austen
+"Oliver Twist" - Charles Dickens
+"The Scarlet Pimpernel" - Baroness Orczy
+"Robinson Crusoe" - Daniel Defoe
+"Journey to the Center of the Earth" - Jules Verne
+"Around the World in Eighty Days" - Jules Verne
+"A Christmas Carol" - Charles Dickens
+"Gulliver's Travels" - Jonathan Swift
+"Tess of the d'Urbervilles" - Thomas Hardy
+"Far from the Madding Crowd" - Thomas Hardy
+"North and South" - Elizabeth Gaskell
+"The Phantom of the Opera" - Gaston Leroux
+"Uncle Tom's Cabin" - Harriet Beecher Stowe
+"Black Beauty" - Anna Sewell
+"The Pilgrim's Progress" - John Bunyan
+"Vanity Fair" - William Makepeace Thackeray
+"The Last of the Mohicans" - James Fenimore Cooper
+"The Red Badge of Courage" - Stephen Crane
